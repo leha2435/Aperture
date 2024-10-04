@@ -1,0 +1,22 @@
+/* GLOBAL */
+@import url("_normalize.css");
+@import url("_fonts.css");
+@import url("_vars.css");
+@import url("_settings.css");
+
+/* BLOCKS */
+@import url("../css/blocks/_header.css");
+@import url("../css/blocks/_burger.css");
+@import url("../css/blocks/_studios.css");
+@import url("../css/blocks/_specialized.css");
+@import url("../css/blocks/_sunset.css");
+@import url("../css/blocks/_gear.css");
+@import url("../css/blocks/_monstera.css");
+@import url("../css/blocks/_clients.css");
+@import url("../css/blocks/_starfall.css");
+@import url("../css/blocks/_help.css");
+@import url("../css/blocks/_footer.css");
+
+/* media */
+
+@import url("../css/blocks/_media.css");
